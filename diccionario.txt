@@ -1,0 +1,5 @@
+Hola: Hello
+Platano: Banana
+Mundo: World
+Pelota: Ball
+Zapato: Shoe
